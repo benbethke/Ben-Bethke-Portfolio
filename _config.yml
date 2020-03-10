@@ -6,7 +6,7 @@ description: > # this means to ignore newlines until "baseurl:"
   Ben's online portfolio to display resume, projects, and achievements.
 
 # social links
-linkedin_username: Benjamin Bethke
+linkedin_username: benjamin-bethke
 github_username:  benbethke
 
 show_excerpts: true # set to false to remove excerpts on the homepage
