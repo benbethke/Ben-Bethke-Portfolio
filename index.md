@@ -1,3 +1,3 @@
 # Home Page
 
-I'm going to share my resume and projects
+Benjamin Bethke's Resume, Projects, and Achievements
