@@ -1,3 +1,3 @@
-# Welcome to my blog
+# Ben Bethke Online Portfolio
 
-I'm glad you are here. I plan to talk about ...
+I'm going to share my resume and projects
